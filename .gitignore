@@ -1,0 +1,22 @@
+# Bancos e relatórios gerados (contêm a listagem real dos arquivos)
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Configuração local
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
